@@ -7,6 +7,8 @@ const CheckBox = ({ isChecked, onChange, label, value }) => {
   const handleChange = () => {
     onChange && onChange(value);
   };
+
+  
   return (
     <S.CheckBox>
       <FormControlLabel
