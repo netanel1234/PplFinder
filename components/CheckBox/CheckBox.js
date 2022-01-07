@@ -18,5 +18,5 @@ const CheckBox = ({ isChecked, onChange, label, value }) => {
 };
 
 var number=5;
-
+var num2=5;
 export default CheckBox;
