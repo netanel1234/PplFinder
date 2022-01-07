@@ -16,7 +16,5 @@ const CheckBox = ({ isChecked, onChange, label, value }) => {
     </S.CheckBox>
   );
 };
-
-var number=5;
-var num2=5;
+var i=0;
 export default CheckBox;
